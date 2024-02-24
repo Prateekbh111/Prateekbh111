@@ -1,4 +1,4 @@
-# 👋 Welcome to [Your Name]'s GitHub Profile!
+# 👋 Welcome to Prateek's GitHub Profile!
 
 ## About Me
 
@@ -32,8 +32,8 @@ Check out some of my notable projects:
 
 ## Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prateekbh111&show_icons=true)
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateekbh111&layout=compact)
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or just want to connect.

@@ -42,7 +42,3 @@ projects and learn even more along the way.</h3>
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prateekbh111&show_icons=true&locale=en&layout=compact" alt="Prateekbh111" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Prateekbh111&show_icons=true&locale=en" alt="Prateekbh111" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prateekbh111&" alt="Prateekbh111" /></p>

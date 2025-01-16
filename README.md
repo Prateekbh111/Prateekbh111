@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">Hi 👋🏻, I'm Prateek Bhardwaj</h1>
-<h3 align="center">I'm a 4th-semester Computer Science Engineering student, proficient in C++, Java, Python, and JavaScript. I have experience with various libraries and frameworks, strong problem-solving skills, and a quick learning ability. I'm eager to apply my academic knowledge to real-world projects and learn even more along the way.</h3>
+<h3 align="center">I'm a 6th-semester Computer Science Engineering student, proficient in C++, Java, Python, and JavaScript. I have experience with various libraries and frameworks, strong problem-solving skills, and a quick learning ability. I'm eager to apply my academic knowledge to real-world projects and learn even more along the way.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandan0123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 

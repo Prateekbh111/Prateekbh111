@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/Prateekbh111/Prateekbh111/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+   <img src="https://raw.githubusercontent.com/Prateekbh111/Prateekbh111/output/snake.svg" alt="Contribution Snake" />
 </div>
 
 ---
@@ -56,16 +56,6 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateekbh111&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
----
-
-### 🐍 Contribution Graph  
-
-<p align="center">
-  <img src="https://github.com/Prateekbh111/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
-> *(You can enable this animation via a GitHub Actions workflow — I can set it up for you if you’d like.)*
 
 ---
 
